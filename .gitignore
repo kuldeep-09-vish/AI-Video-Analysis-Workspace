@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Generated runtime data
+downloads/
+downloades/
+vector_db/
+*_converted.wav
+*_chunk_*.wav
+*_sv_*.wav
+
